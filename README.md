@@ -46,3 +46,20 @@ The **Intelligent Fitness Microservices Backend System** is a scalable and secur
 | `config-server` | Centralized configuration for all services |
 | `eureka`        | Service registry/discovery                  |
 | `gateway`       | Unified entry-point with routing & security |
+
+---
+
+## 📸 Screenshots
+![Screenshot 2025-04-17 155911](https://github.com/user-attachments/assets/861f727e-2982-4f7e-ba4a-f6b08efe0ee6)
+![Screenshot 2025-04-17 155335](https://github.com/user-attachments/assets/fc8aaabb-74b7-4e08-8a86-335c3e51e85a)
+![Screenshot 2025-04-17 155516](https://github.com/user-attachments/assets/15d475f0-63a9-48d5-b2de-5aae2ac2fcf6)
+![Screenshot 2025-04-17 155559](https://github.com/user-attachments/assets/b5ce40b5-782a-455b-8c04-f7431797861f)
+![Screenshot 2025-04-17 155635](https://github.com/user-attachments/assets/571b1ad5-d17e-42b5-bc4b-7504e5c4d24b)
+![Screenshot 2025-04-17 155712](https://github.com/user-attachments/assets/5207aacb-2e83-43b9-815c-9cda072e80af)
+![Screenshot 2025-04-17 155833](https://github.com/user-attachments/assets/6d3e49ea-d07e-4b65-b446-d6e9627c5360)
+![Screenshot 2025-04-17 155956](https://github.com/user-attachments/assets/bdb18734-4c43-462b-afdc-d492728d82c5)
+![Screenshot 2025-04-17 155743](https://github.com/user-attachments/assets/61b75684-4325-485a-95da-83e6113fdf16)
+![Screenshot 2025-04-17 160042](https://github.com/user-attachments/assets/b2125db2-1bca-44c4-a511-53f317fa3c5e)
+
+
+
